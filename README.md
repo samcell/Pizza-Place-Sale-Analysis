@@ -32,7 +32,7 @@ The dataset contains one year of sales data from a fictitious pizza place, inclu
 - Pandas (data manipulation)
 - Matplotlib/Seaborn (visualizations)
 
-## � Key Findings
+## 🔍 Key Findings
 The data revealed these insights:
 1. The total sales for The Pizza Place is $ 817,860.05
 2. The Pizza Place sold 49,574 pizzas from 48,620 orders
@@ -40,5 +40,17 @@ The data revealed these insights:
 4. Peak sales hours: Between 12 PM and 2 PM and between 4 PM and 7 PM
 5. Highest revenue day: Fridays generated Z% more revenue than average
 
-## � Visualizations
+## 📊 Visualizations
+
+### Sales by Day of Week
+![Sales by Month](images/Monthly_Pizza_Sales.png)  
+*Figure 1: Monthly sales trends showing peak month.*
+
+### Top 5 Pizza Categories
+![Pizza Categories](images/5_Bestselling_Pizzas.png)  
+*Figure 2: Sales distribution across pizza categories.*
+
+### Sales by Pizza Size
+![Pizza Sizes](images/Sales_by_pizza_size.png)  
+*Figure 3: Sales distribution across pizza size.*
 
