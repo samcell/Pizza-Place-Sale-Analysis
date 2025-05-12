@@ -11,6 +11,7 @@ This repository contains a Python-based analysis of sales data from a pizza plac
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Key Findings](#key-findings)
+- [Visualizations](#visualizations)
 
 ## � Project Overview
 This analysis aims to uncover business insights from pizza sales data, including:
@@ -32,9 +33,12 @@ The dataset contains one year of sales data from a fictitious pizza place, inclu
 - Matplotlib/Seaborn (visualizations)
 
 ## � Key Findings
-Summarize your most interesting discoveries, for example:
+The data revealed these insights:
 1. The total sales for The Pizza Place is $ 817,860.05
 2. The Pizza Place sold 49,574 pizzas from 48,620 orders
 3. Most popular pizza size: [Large] accounted for 45.9% of total sales
 4. Peak sales hours: Between 12 PM and 2 PM and between 4 PM and 7 PM
 5. Highest revenue day: Fridays generated Z% more revenue than average
+
+## � Visualizations
+
