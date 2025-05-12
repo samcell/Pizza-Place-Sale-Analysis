@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dab219c0-4312-4d9a-83be-3a5c0911e4ab)# Pizza Place Sales Analysis
+# Pizza Place Sales Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-orange.svg)
