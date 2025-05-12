@@ -42,7 +42,7 @@ The data revealed these insights:
 
 ## 📊 Visualizations
 
-### Sales by Day of Week
+### Sales by Month
 ![Sales by Month](images/Monthly_Pizza_Sales.png)  
 *Figure 1: Monthly sales trends showing peak month.*
 
